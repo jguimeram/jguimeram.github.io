@@ -4,6 +4,8 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
 :root {
         --accent: #00ff00;
         --accent-dark: #009900;
@@ -29,7 +31,7 @@
 	font-display: swap;
 }
 body {
-        font-family: 'Courier New', monospace;
+        font-family: 'Fira Code', monospace;
         margin: 0;
         padding: 0;
         text-align: left;
